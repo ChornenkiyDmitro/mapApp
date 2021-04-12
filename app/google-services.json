@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555755068430",
+    "project_id": "mapapp-310012",
+    "storage_bucket": "mapapp-310012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555755068430:android:0d6a6def12ccbb72f9305f",
+        "android_client_info": {
+          "package_name": "com.example.shavyha_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555755068430-lo4akcja345qnnkgitdn0iflrf0c0c2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shavyha_map",
+            "certificate_hash": "7e0697e94659079306a9dae3c9379c9e54e1a083"
+          }
+        },
+        {
+          "client_id": "555755068430-ea3a73od4abs5pukljmsra5e09dtrapo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAH0fD5o4uBKh9-7jvTU1zKjAI6oWq0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555755068430-ea3a73od4abs5pukljmsra5e09dtrapo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
